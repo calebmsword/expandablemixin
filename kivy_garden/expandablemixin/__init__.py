@@ -1,12 +1,12 @@
 """
-Demo flower
+Demo expandablemixin
 ============
 
 Defines the Kivy garden :class:`FlowerLabel` class which is the widget provided
-by the demo flower.
+by the demo expandablemixin.
 """
 
-from kivy.uix.label import Label
+from            kivy.uix.label import Label
 
 __all__ = ('FlowerLabel', )
 
